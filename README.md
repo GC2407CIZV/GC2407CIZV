@@ -16,6 +16,16 @@ I'm a highly motivated individual with a strong foundation in programming and a 
 * **Web Development:** Flask, HTML, CSS, JavaScript, Web Scraping (Beautiful Soup)
 * **Tools & Technologies:** Git, Visual Studio, DB Browser, Spreadsheet Software
 
+## Project Skills Matrix
+
+| Project Title                                    | Python | R | SQL | Tableau | Scikit-learn | Flask | ... |
+|-------------------------------------------------|--------|---|-----|---------|-------------|-------|-----|
+| Falcon 9 First-Stage Landing Success Prediction |  ✅     |   |     |         |      ✅      |       | ... |
+| Quacktastic Conundrum (CS50)                   |  ✅     |   | ✅   |         |             |  ✅    | ... |
+| Bellabeat Smart Device Usage Analysis            |        | ✅  |     |         |             |       | ... |
+| Olympic Games Data Analysis                     |  ✅     |   |     |         |             |       | ... |
+| ...                                             |        |   |     |         |             |       | ... |
+
 ## Key Projects
 
 * **🚀 Falcon 9 First-Stage Landing Success Prediction:**  Developed a machine learning model using Python and Scikit-learn to predict Falcon 9 first-stage landing success, achieving 83.3% accuracy with a K-Nearest Neighbors (KNN) algorithm. This project involved data collection via the SpaceX API and web scraping using Beautiful Soup, extensive exploratory data analysis with Pandas, interactive visualizations using Folium and Plotly, and rigorous model evaluation.  Key findings included identifying the most successful launch site and analyzing the impact of payload weight and orbit type on landing outcomes. [Link to Repository](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone)
