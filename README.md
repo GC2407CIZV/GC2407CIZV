@@ -18,13 +18,13 @@ I'm a highly motivated individual with a strong foundation in programming and a 
 
 ## Project Skills Matrix
 
-| Project Title                                    | Python | R | SQL | Tableau | Scikit-learn | Flask | ... |
-|-------------------------------------------------|--------|---|-----|---------|-------------|-------|-----|
-| Falcon 9 First-Stage Landing Success Prediction |  ✅     |   |     |         |      ✅      |       | ... |
-| Quacktastic Conundrum (CS50)                   |  ✅     |   | ✅   |         |             |  ✅    | ... |
-| Bellabeat Smart Device Usage Analysis            |        | ✅  |     |         |             |       | ... |
-| Olympic Games Data Analysis                     |  ✅     |   |     |         |             |       | ... |
-| ...                                             |        |   |     |         |             |       | ... |
+| Project Title                                    | Python | R | SQL | Tableau | Scikit-learn | Flask | Jupyter Notebook | RStudio (Posit Cloud) | Visual Studio | ... |
+|-------------------------------------------------|--------|---|-----|---------|-------------|-------|----------------|----------------------|---------------|-----|
+| Falcon 9 First-Stage Landing Success Prediction |  ✅     |   |     |         |      ✅      |       |        ✅        |                      |               | ... |
+| Quacktastic Conundrum (CS50)                   |  ✅     |   | ✅   |         |             |  ✅    |                |                      |      ✅        | ... |
+| Bellabeat Smart Device Usage Analysis            |        | ✅  |     |         |             |       |                |          ✅          |               | ... |
+| Olympic Games Data Analysis                     |  ✅     |   |     |         |             |       |        ✅        |                      |               | ... |
+| ...                                             |        |   |     |         |             |       |                |                      |               | ... |
 
 ## Key Projects
 
