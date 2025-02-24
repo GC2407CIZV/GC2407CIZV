@@ -7,6 +7,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GC2407CIZV&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GC2407CIZV&layout=compact&langs_count=10&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GC2407CIZV&theme=radical)  *(Optional: Uncomment if you want streak stats)*
 
 ## Projects
 
