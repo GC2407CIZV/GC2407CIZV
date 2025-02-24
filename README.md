@@ -18,13 +18,13 @@ I'm a highly motivated individual with a strong foundation in programming and a 
 
 ## Project Skills Matrix
 
-| Project Title                                    | Python | SQL | Scikit-learn | Beautiful Soup | Pandas | Matplotlib | Seaborn | Plotly | Folium | Jupyter Notebook | ... |
-|-------------------------------------------------|:------:|:---:|:------------:|:--------------:|:------:|:----------:|:-------:|:------:|:------:|:--------------:|-----|
-| Falcon 9 First-Stage Landing Success Prediction |  <div align="center">✅</div> | <div align="center">✅</div>   |      <div align="center">✅</div>      |        <div align="center">✅</div>        |   <div align="center">✅</div>    |     <div align="center">✅</div>      |   <div align="center">✅</div>    |   <div align="center">✅</div>   |   <div align="center">✅</div>   |        <div align="center">✅</div>        | ... |
-| Quacktastic Conundrum (CS50)                   |  <div align="center">✅</div> | <div align="center">✅</div>   |             |                |        |            |         |        |        |                | ... |
-| Bellabeat Smart Device Usage Analysis            |        |     |             |                |        |            |         |        |        |                | ... |  *(Add R, tidyverse, ggplot2, etc. here)*
-| Olympic Games Data Analysis                     |  <div align="center">✅</div> |     |             |                |        |            |         |        |        |        <div align="center">✅</div>        | ... |
-| ... 
+| Project Title                                    | Python | SQL | Scikit-learn | Beautiful Soup | Pandas | Matplotlib | Seaborn | Plotly | Folium | Jupyter Notebook | Flask | HTML | CSS | JavaScript | ... |
+|-------------------------------------------------|:------:|:---:|:------------:|:--------------:|:------:|:----------:|:-------:|:------:|:------:|:--------------:|:-----:|:----:|:---:|:----------:|-----|
+| Falcon 9 First-Stage Landing Success Prediction |  <div align="center">✅</div> | <div align="center">✅</div>   |      <div align="center">✅</div>      |        <div align="center">✅</div>        |   <div align="center">✅</div>    |     <div align="center">✅</div>      |   <div align="center">✅</div>    |   <div align="center">✅</div>   |   <div align="center">✅</div>   |        <div align="center">✅</div>        |       |      |     |            | ... |
+| Quacktastic Conundrum (CS50)                   |  <div align="center">✅</div> | <div align="center">✅</div>   |             |                |        |            |         |        |        |                | <div align="center">✅</div> | <div align="center">✅</div> | <div align="center">✅</div> | <div align="center">✅</div> | ... |
+| Bellabeat Smart Device Usage Analysis            |        |     |             |                |        |            |         |        |        |                |       |      |     |            | ... |  *(Add R, tidyverse, ggplot2, etc. here)*
+| Olympic Games Data Analysis                     |  <div align="center">✅</div> |     |             |                |        |            |         |        |        |        <div align="center">✅</div>        |       |      |     |            | ... |
+| ...                                             |        |     |             |                |        |            |         |        |        |                |       |      |     |            | ... |
 
 ## Key Projects
 
