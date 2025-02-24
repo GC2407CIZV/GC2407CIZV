@@ -3,6 +3,11 @@
 
 - 🌱 I’m currently learning Google Advanced Analytics
 
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GC2407CIZV&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GC2407CIZV&layout=compact&langs_count=10&theme=dracula)
+
 ## Projects
 
 I'm proud of the projects I've worked on, which demonstrate my growing expertise in various areas:
