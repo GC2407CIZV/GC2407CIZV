@@ -7,8 +7,8 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GC2407CIZV&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GC2407CIZV&layout=compact&langs_count=10&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=GC2407CIZV&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GC2407CIZV&theme=dracula&bg_color=171717&title_color=f0f6fc&line_color=7fdbca&point_color=33639e&area=true&hide_contribs=false)
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
 
 ## Projects
 
