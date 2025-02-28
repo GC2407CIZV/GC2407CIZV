@@ -51,15 +51,13 @@ I'm a highly motivated individual with a strong foundation in programming and a 
 
 I'm actively seeking opportunities in data science and software development. Let's connect!
 
-* [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30">](https://www.linkedin.com/in/gregory-charles-7a460550/)
-* [Email](mailto:gregory.charles01@gmail.com)
+* [<img src="[https://img.icons8.com/?size=100&id=13930&format=png&color=000000]" width="30">](https://www.linkedin.com/in/gregory-charles-7a460550/)
+* [<img src="[https://img.icons8.com/?size=100&id=13826&format=png&color=000000]" width="30">](mailto:gregory.charles01@gmail.com)
 
 ---
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GC2407CIZV&show_icons=true&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=GC2407CIZV&theme=dark&hide_border=true)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GC2407CIZV&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GC2407CIZV&layout=compact&langs_count=10&theme=dracula)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GC2407CIZV&theme=dracula&bg_color=171717&title_color=f0f6fc&line_color=7fdbca&point_color=33639e&area=true&hide_contribs=false)
