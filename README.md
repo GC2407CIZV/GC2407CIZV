@@ -51,7 +51,7 @@ I'm a highly motivated individual with a strong foundation in programming and a 
 
 I'm actively seeking opportunities in data science and software development. Let's connect!
 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/gregory-charles-7a460550/) [![Email](https://img.icons8.com/ios-filled/50/000000/new-post.png)](mailto:gregory.charles01@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/808080/linkedin.png)](https://www.linkedin.com/in/gregory-charles-7a460550/) [![Email](https://img.icons8.com/ios-filled/50/808080/new-post.png)](mailto:gregory.charles01@gmail.com)
 
 ---
 
