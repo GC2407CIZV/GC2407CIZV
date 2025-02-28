@@ -53,7 +53,7 @@ I'm actively seeking opportunities in data science and software development. Let
 
 ![image](https://github.com/user-attachments/assets/c1ad49f5-e0a6-4c0b-8f17-72789ba96e67)
 
-* [![image](https://github.com/user-attachments/assets/c0d21fed-a61f-415e-a82f-f37aadc6b566]
+* [![img src=](https://github.com/user-attachments/assets/c0d21fed-a61f-415e-a82f-f37aadc6b566]
 (https://www.linkedin.com/in/gregory-charles-7a460550/)
 * [<img src="[https://img.icons8.com/?size=100&id=13826&format=png&color=000000]" width="30">](mailto:gregory.charles01@gmail.com)
 
