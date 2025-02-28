@@ -51,8 +51,8 @@ I'm a highly motivated individual with a strong foundation in programming and a 
 
 I'm actively seeking opportunities in data science and software development. Let's connect!
 
-* [LinkedIn](Your LinkedIn Profile URL)
-* [Email](mailto:your.email@example.com)
+* [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30">](https://www.linkedin.com/in/gregory-charles-7a460550/)
+* [Email](mailto:gregory.charles01@gmail.com)
 
 ---
 
