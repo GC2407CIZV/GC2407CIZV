@@ -58,8 +58,8 @@ I'm actively seeking opportunities in data science and software development. Let
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GC2407CIZV&show_icons=true&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GC2407CIZV&theme=dark&hide_border=true)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GC2407CIZV&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GC2407CIZV&layout=compact&langs_count=10&theme=dracula)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GC2407CIZV&theme=dracula&bg_color=171717&title_color=f0f6fc&line_color=7fdbca&point_color=33639e&area=true&hide_contribs=false)
