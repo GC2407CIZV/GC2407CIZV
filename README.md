@@ -39,13 +39,6 @@ I'm a highly motivated individual with a strong foundation in programming and a 
 
 * **Olympic Games Demographics and Medal Distribution Analysis:** Investigated trends in Olympic athlete demographics and medal distribution from 1896 to 2020 using Python and Jupyter Notebooks. I cleaned and preprocessed a dataset of athlete information, medal counts, and sports data using Pandas. My analysis revealed a significant increase in female participation over time and explored the relationship between physical attributes and athletic success. [Link to Repository](Link to your Olympic project repo)
 
-* **[Machine Learning Project Title]:** Developed a predictive model for [problem] using Python and Scikit-learn, achieving [quantifiable result, e.g., 90% accuracy].  Explored and compared algorithms such as [list algorithms].  Key insights included [mention key insights].  [Link to Repository](Link to your Machine Learning repo)
-
-* **[Python for Everybody Project Title]:**  Applied web scraping techniques learned in the "Python for Everybody" specialization to collect and analyze data from [website].  This project involved [specific tasks and techniques] and demonstrated my proficiency in [skills gained]. [Link to Repository](Link to your Python repo)
-
-* **[SQL Data Analysis Project Title]:**  Honed SQL skills for data analysis, including complex queries and data manipulation, to analyze [dataset].  Identified key trends in [area] by [mention specific SQL techniques used]. [Link to Repository](Link to your SQL repo)
-
-* **[Google Analytics Project Title]:** Leveraged Google Analytics to analyze website traffic and user behavior for [website/project].  Identified key areas for improvement in [area], leading to [quantifiable result, e.g., a 10% increase in conversion rates].  [Link to portfolio or blog post if no code repo]
 
 ## Connect
 
