@@ -60,4 +60,3 @@ I'm actively seeking opportunities in data science and software development. Let
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GC2407CIZV&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GC2407CIZV&layout=compact&langs_count=10&theme=dracula)
-![Profile views](https://komarev.com/ghpvc/?username=GC2407CIZV)
