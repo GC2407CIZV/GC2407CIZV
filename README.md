@@ -7,7 +7,11 @@
 [![Data Science](https://img.shields.io/badge/Data%20Science-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)](https://analytics.google.com/)
+[![Google Advanced Data Analytics](https://img.shields.io/badge/Google%20Adv%20Analytics-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)](https://grow.google/advanceddataanalytics/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
+[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4BC686?style=flat-square&logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+
 
 
 I'm Greg, a highly motivated and results-oriented individual with a rapidly developing skillset in data science and software development.  I approach challenges with a blend of analytical thinking and creative problem-solving, driven by a deep curiosity to understand the "why" behind the data. Since starting my coding journey in July 2024, I've immersed myself in Python, R, SQL, and various data science techniques, leveraging AI tools like ChatGPT and Gemini to accelerate my learning. I'm drawn to data science roles where I can use my analytical abilities and insights to make a meaningful impact.  I value deep understanding and strive for continuous improvement in all my endeavors. Let's connect!
