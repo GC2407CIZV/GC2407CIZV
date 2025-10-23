@@ -149,13 +149,12 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 
 These projects demonstrate proficiency in data acquisition, cleaning, visualization, and strategic business reporting.
 
-| Project Title | Sector Focus | Core Technology | Key Insight | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| [**Bellabeat Smart Device Usage Analysis**](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) | Wellness/Business Analytics | R Tidyverse, ggplot2, R Markdown | Delivered data-driven marketing strategies based on weekday/weekend activity patterns. | [Link](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) |
-| [**Olympic Games Data Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) | Sports Analytics | Python, Advanced EDA, Visualization | Uncovered historical trends and identified optimal physical attributes for medal success. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) |
-| [**Bicycle Rental Demand Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) | Transportation/Time Series | Linear Regression, Feature Engineering | Improved forecasting accuracy by incorporating lagged temporal features (last week's average). | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) |
-| [**Visualizing Heart Disease Risk**](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) | Public Health | Tableau, Data Storytelling | Created an accessible, interactive dashboard with a Risk Calculator for public communication. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) |
-
+| Project Title | Sector Focus | Core Technology | Key Insight |
+| :--- | :--- | :--- | :--- |
+| [**Bellabeat Smart Device Usage Analysis**](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) | Wellness/Business Analytics | R Tidyverse, ggplot2, R Markdown | Delivered data-driven marketing strategies based on weekday/weekend activity patterns. |
+| [**Olympic Games Data Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) | Sports Analytics | Python, Advanced EDA, Visualization | Uncovered historical trends and identified optimal physical attributes for medal success. |
+| [**Bicycle Rental Demand Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) | Transportation/Time Series | Linear Regression, Feature Engineering | Improved forecasting accuracy by incorporating lagged temporal features (last week's average). |
+| [**Visualizing Heart Disease Risk**](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) | Public Health | Tableau, Data Storytelling | Created an accessible, interactive dashboard with a Risk Calculator for public communication. |
 ---
 
 ## 🔗 Connect
