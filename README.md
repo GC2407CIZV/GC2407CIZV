@@ -20,23 +20,35 @@ Data-driven professional skilled in Python, R, and Machine Learning, focused on 
 
 ---
 
+## 🏆 Verified Certifications (Credly)
+
+These certifications validate foundational to advanced skills in data science, analytics, and deep learning.
+
+[![Google Advanced Data Analytics Certificate](https://img.shields.io/badge/Google%20Adv.%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/dfeb0045-1852-47f8-bc1f-688e97f7d410)
+[![IBM Data Science Professional Certificate](https://img.shields.io/badge/IBM%20Data%20Science%20Pro-006DFF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/ecd97fdc-871e-4d42-81d4-f6085fa30db6)
+[![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credly.com/badges/6ec911b6-b7e9-432f-8415-5836a2877060)
+[![Generative AI for Data Scientists Specialization](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=googlebard&logoColor=white)](https://www.credly.com/badges/0243b1ec-74a4-4f4b-83fe-8a4e26b6fb31)
+[![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google%20Data%20Analytics%20Pro-34A853?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://www.credly.com/badges/3d6a1fd6-4055-4888-95d9-e8c8784974b9)
+
+---
+
 ## 💡 Quick Project Index (13 Projects)
 
 | Project Title | Sector Focus | Core Technology | Key Achievement/Result | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| **Falcon 9 Landing Success Prediction** | Space/MLOps | KNN, Web Scraping | **83.3% accuracy** predicting rocket landing success. | [Link](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) |
-| **ExtraaLearn Lead Conversion Prediction** | Sales/Marketing | XGBoost, Lead Scoring | Achieved **ROC AUC 0.931** for optimized lead scoring. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML) |
-| **Amazon Product Recommendation Engine** | Retail/eCommerce | SVD, Collaborative Filtering | Optimized SVD achieved **RMSE 0.8808** on 7.8M ratings. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine) |
-| **AI-Based Emotion Detection App** | NLP/Full-Stack AI | Watson NLP, Flask | Deployed **full-stack AI application** with unit testing. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/AI-Based%20Emotion%20Detection%20Web%20Application) |
-| **NYC Housing Price Prediction** | Real Estate/Geo | Ensemble ML (RF/GB) | Models captured complex **NYC price drivers** (Manhattan location). | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Predicting%20New%20York%20City%20Housing%20Prices%3A%20Addressing%20Real-World%20Challenges) |
-| **Salifort Motors Turnover Prediction** | HR/Workforce | XGBoost, A/B Testing | Identified key **employee turnover factors** for retention strategy. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Salifort%20Motors%20Employee%20Turnover%20Analysis) |
-| **Customer Personality Segmentation** | Marketing/Analytics | K-Means, PCA | Identified **3 distinct customer segments** for tailored marketing. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Customer%20Personality%20Segmentation) |
-| **VisionScribe** | Computer Vision | BLIP (Deep Learning), Gradio | Built an **image captioning web application** using Hugging Face models. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/VisionScribe) |
-| **Quacktastic Conundrum (CS50)** | Full-Stack Web Dev | Flask, SQLite, Security | Designed and implemented a secure, **full-stack web game**. | [Link](https://github.com/GC2407CIZV/CS50/tree/main/project) |
-| **Bellabeat Smart Device Usage Analysis** | Business Analytics (R) | R Tidyverse, ggplot2 | Delivered **strategic marketing recommendations** based on fitness data. | [Link](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) |
-| **Olympic Games Data Analysis** | Sports Analytics | Advanced EDA | Uncovered historical trends and **Optimal Athlete Profiles**. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) |
-| **Heart Disease Risk Visualization** | Public Health | Tableau, Data Storytelling | Created an **Interactive Risk Calculator** for public health communication. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) |
-| **Bicycle Rental Demand Prediction** | Transportation | Time Series ML | Improved model accuracy by incorporating **temporal features**. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) |
+| [**Falcon 9 Landing Success Prediction**](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) | Space/MLOps | KNN, Web Scraping | **83.3% accuracy** predicting rocket landing success. | [Link](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) |
+| [**ExtraaLearn Lead Conversion Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML) | Sales/Marketing | XGBoost, Lead Scoring | Achieved **ROC AUC 0.931** for optimized lead scoring. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML) |
+| [**Amazon Product Recommendation Engine**](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine) | Retail/eCommerce | SVD, Collaborative Filtering | Optimized SVD achieved **RMSE 0.8808** on 7.8M ratings. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine) |
+| [**AI-Based Emotion Detection App**](https://github.com/GC2407CIZV/Projects/tree/main/AI-Based%20Emotion%20Detection%20Web%20Application) | NLP/Full-Stack AI | Watson NLP, Flask | Deployed **full-stack AI application** with unit testing. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/AI-Based%20Emotion%20Detection%20Web%20Application) |
+| [**NYC Housing Price Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Predicting%20New%20York%20City%20Housing%20Prices%3A%20Addressing%20Real-World%20Challenges) | Real Estate/Geo | Ensemble ML (RF/GB) | Models captured complex **NYC price drivers** (Manhattan location). | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Predicting%20New%20York%20City%20Housing%20Prices%3A%20Addressing%20Real-World%20Challenges) |
+| [**Salifort Motors Turnover Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Salifort%20Motors%20Employee%20Turnover%20Analysis) | HR/Workforce | XGBoost, A/B Testing | Identified key **employee turnover factors** for retention strategy. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Salifort%20Motors%20Employee%20Turnover%20Analysis) |
+| [**Customer Personality Segmentation**](https://github.com/GC2407CIZV/Projects/tree/main/Customer%20Personality%20Segmentation) | Marketing/Analytics | K-Means, PCA | Identified **3 distinct customer segments** for tailored marketing. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Customer%20Personality%20Segmentation) |
+| [**VisionScribe**](https://github.com/GC2407CIZV/Projects/tree/main/VisionScribe) | Computer Vision | BLIP (Deep Learning), Gradio | Built an **image captioning web application** using Hugging Face models. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/VisionScribe) |
+| [**Quacktastic Conundrum (CS50)**](https://github.com/GC2407CIZV/CS50/tree/main/project) | Full-Stack Web Dev | Flask, SQLite, Security | Designed and implemented a secure, **full-stack web game**. | [Link](https://github.com/GC2407CIZV/CS50/tree/main/project) |
+| [**Bellabeat Smart Device Usage Analysis**](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) | Business Analytics (R) | R Tidyverse, ggplot2 | Delivered **strategic marketing recommendations** based on fitness data. | [Link](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) |
+| [**Olympic Games Data Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) | Sports Analytics | Advanced EDA | Uncovered historical trends and **Optimal Athlete Profiles**. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) |
+| [**Heart Disease Risk Visualization**](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) | Public Health | Tableau, Data Storytelling | Created an **Interactive Risk Calculator** for public health communication. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) |
+| [**Bicycle Rental Demand Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) | Transportation | Time Series ML | Improved model accuracy by incorporating **temporal features**. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) |
 
 ---
 
@@ -140,10 +152,10 @@ These projects demonstrate proficiency in data acquisition, cleaning, visualizat
 
 | Project Title | Sector Focus | Core Technology | Key Insight | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bellabeat Smart Device Usage Analysis** | Wellness/Business Analytics | R Tidyverse, ggplot2, R Markdown | Delivered data-driven marketing strategies based on weekday/weekend activity patterns. | [Link](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) |
-| **Olympic Games Data Analysis** | Sports Analytics | Python, Advanced EDA, Visualization | Uncovered historical trends and identified optimal physical attributes for medal success. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) |
-| **Bicycle Rental Demand Prediction** | Transportation/Time Series | Linear Regression, Feature Engineering | Improved forecasting accuracy by incorporating lagged temporal features (last week's average). | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) |
-| **Visualizing Heart Disease Risk** | Public Health/Tableau | Tableau, Data Storytelling | Created an accessible, interactive dashboard with a Risk Calculator for public communication. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) |
+| [**Bellabeat Smart Device Usage Analysis**](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) | Wellness/Business Analytics | R Tidyverse, ggplot2, R Markdown | Delivered data-driven marketing strategies based on weekday/weekend activity patterns. | [Link](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) |
+| [**Olympic Games Data Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) | Sports Analytics | Python, Advanced EDA, Visualization | Uncovered historical trends and identified optimal physical attributes for medal success. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) |
+| [**Bicycle Rental Demand Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) | Transportation/Time Series | Linear Regression, Feature Engineering | Improved forecasting accuracy by incorporating lagged temporal features (last week's average). | [Link](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) |
+| [**Visualizing Heart Disease Risk**](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) | Public Health | Tableau, Data Storytelling | Created an accessible, interactive dashboard with a Risk Calculator for public communication. | [Link](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) |
 
 ---
 
