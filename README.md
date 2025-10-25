@@ -37,7 +37,7 @@ These certifications validate foundational to advanced skills in data science, a
 
 | Project Title | Sector Focus | Core Technology | Key Achievement/Result |
 | :--- | :--- | :--- | :--- |
-| [**AI Career Coach Pro**](https://github.com/GC2407CIZV/AI_Career_Coach_Pro) | **Career Tech/LLM** | **LLMs (watsonx.ai), Gradio** | End-to-end **AI application** for resume, cover letter, and interview coaching. |
+| [**AI Career Coach Pro**](https://github.com/GC2407CIZV/Projects/tree/main/AI%20Career%20Coach%20App) | **Career Tech/LLM** | **LLMs (watsonx.ai), Gradio** | End-to-end **AI application** for resume, cover letter, and interview coaching. |
 | [**Falcon 9 Landing Success Prediction**](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) | Space/MLOps | KNN, Web Scraping | **83.3% accuracy** predicting rocket landing success. |
 | [**ExtraaLearn Lead Conversion Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML) | Sales/Marketing | XGBoost, Lead Scoring | Achieved **ROC AUC 0.931** for optimized lead scoring. |
 | [**Amazon Product Recommendation Engine**](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine) | Retail/eCommerce | SVD, Collaborative Filtering | Optimized SVD achieved **RMSE 0.8808** on 7.8M ratings. |
