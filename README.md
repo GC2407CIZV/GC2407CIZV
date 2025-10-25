@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Greg Charles
+# 👋 Hi, I'm Greg
 
 Data-driven professional skilled in Python, R, and Machine Learning, focused on delivering actionable insights and deployable full-stack **AI and LLM solutions**.
 
