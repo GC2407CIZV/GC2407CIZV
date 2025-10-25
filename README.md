@@ -80,7 +80,7 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 * **Technologies:** Python, **LLMs (watsonx.ai), Gradio, Prompt Engineering**
 * **Description:** An end-to-end, multi-tool application built for personalized career coaching. It uses IBM watsonx.ai for resume analysis, cover letter generation, and realistic mock interview feedback. Success relies on advanced **Prompt Engineering** to drive structured analytical and generative output.
 * **Achievement:** Created a **full-stack AI application** demonstrating advanced LLM integration and the ability to design complex, multi-stage data processing workflows.
-* [Repository Link](https://github.com/GC2407CIZV/AI_Career_Coach_Pro)
+* [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/AI%20Career%20Coach%20App)
 
 ### 2. ExtraaLearn Lead Conversion Prediction
 
