@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Greg
 
-Data-driven professional skilled in Python, R, and Machine Learning, focused on delivering actionable insights and deployable full-stack **AI and LLM solutions**.
+Data-driven professional skilled in Python, R, and Machine Learning, focused on delivering actionable insights and deployable **full-stack AI and LLM solutions**.
 
 ---
 
@@ -11,6 +11,7 @@ Data-driven professional skilled in Python, R, and Machine Learning, focused on 
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![LLM/watsonx.ai](https://img.shields.io/badge/LLM/watsonx.ai-006DFF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/watsonx)
 [![Gradio](https://img.shields.io/badge/Gradio-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://www.gradio.app/)
+[![LangChain](https://img.shields.io/badge/LangChain-008080?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-1E90FF?style=for-the-badge&logo=xgboost&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
@@ -33,24 +34,26 @@ These certifications validate foundational to advanced skills in data science, a
 
 ---
 
-## 💡 Quick Project Index (14 Projects)
+## 💡 Quick Project Index (15 Projects)
 
 | Project Title | Sector Focus | Core Technology | Key Achievement/Result |
 | :--- | :--- | :--- | :--- |
+| [**RAG-Powered Q&A Bot for Document Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/RAG-Powered%20Q%26A%20Bot%20with%20LangChain%20and%20watsonx.ai) | **Generative AI/LLM** | **LangChain, watsonx.ai, Gradio** | Built full RAG pipeline; Deployed interactive QA interface. |
 | [**AI Career Coach Pro**](https://github.com/GC2407CIZV/Projects/tree/main/AI%20Career%20Coach%20App) | **Career Tech/LLM** | **LLMs (watsonx.ai), Gradio** | End-to-end **AI application** for resume, cover letter, and interview coaching. |
-| [**Falcon 9 Landing Success Prediction**](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) | Space/MLOps | KNN, Web Scraping | **83.3% accuracy** predicting rocket landing success. |
 | [**ExtraaLearn Lead Conversion Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML) | Sales/Marketing | XGBoost, Lead Scoring | Achieved **ROC AUC 0.931** for optimized lead scoring. |
 | [**Amazon Product Recommendation Engine**](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine) | Retail/eCommerce | SVD, Collaborative Filtering | Optimized SVD achieved **RMSE 0.8808** on 7.8M ratings. |
+| [**Falcon 9 Landing Success Prediction**](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) | Space/MLOps | KNN, Web Scraping | **83.3% accuracy** predicting rocket landing success. |
 | [**AI-Based Emotion Detection App**](https://github.com/GC2407CIZV/Projects/tree/main/AI-Based%20Emotion%20Detection%20Web%20Application) | NLP/Full-Stack AI | Watson NLP, Flask | Deployed **full-stack AI application** with unit testing. |
 | [**NYC Housing Price Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Predicting%20New%20York%20City%20Housing%20Prices%3A%20Addressing%20Real-World%20Challenges) | Real Estate/Geo | Ensemble ML (RF/GB) | Models captured complex **NYC price drivers** (Manhattan location). |
 | [**Salifort Motors Turnover Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Salifort%20Motors%20Employee%20Turnover%20Analysis) | HR/Workforce | XGBoost, A/B Testing | Identified key **employee turnover factors** for retention strategy. |
 | [**Customer Personality Segmentation**](https://github.com/GC2407CIZV/Projects/tree/main/Customer%20Personality%20Segmentation) | Marketing/Analytics | K-Means, PCA | Identified **3 distinct customer segments** for tailored marketing. |
 | [**VisionScribe**](https://github.com/GC2407CIZV/Projects/tree/main/VisionScribe) | Computer Vision | BLIP (Deep Learning), Gradio | Built an **image captioning web application** using Hugging Face models. |
 | [**Quacktastic Conundrum (CS50)**](https://github.com/GC2407CIZV/CS50/tree/main/project) | Full-Stack Web Dev | Flask, SQLite, Security | Designed and implemented a secure, **full-stack web game**. |
-| [**Bellabeat Smart Device Usage Analysis**](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) | Business Analytics (R) | R Tidyverse, ggplot2 | Delivered **strategic marketing recommendations** based on fitness data. |
+| [**Bellabeat Smart Device Usage Analysis**](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) | Wellness/Business Analytics | R Tidyverse, ggplot2 | Delivered **strategic marketing recommendations** based on fitness data. |
 | [**Olympic Games Data Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) | Sports Analytics | Advanced EDA | Uncovered historical trends and **Optimal Athlete Profiles**. |
 | [**Heart Disease Risk Visualization**](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) | Public Health | Tableau, Data Storytelling | Created an **Interactive Risk Calculator** for public health communication. |
-| [**Bicycle Rental Demand Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) | Transportation | Time Series ML | Improved model accuracy by incorporating **temporal features**. |
+| [**Bicycle Rental Demand Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) | Transportation | Time Series ML | Improved forecasting accuracy by incorporating **temporal features**. |
+
 ---
 
 ## 👤 About Me
@@ -64,7 +67,7 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 ## 🛠️ Skills
 
 * **Programming Languages:** Python, R, SQL, JavaScript, HTML, CSS, C
-* **Machine Learning & AI:** **LLMs (watsonx.ai)**, Generative AI, XGBoost, SVD, NLP (Watson), K-Means, KNN, Logistic Regression, SVM, Decision Trees, BLIP (Deep Learning)
+* **Machine Learning & AI:** **LLMs (watsonx.ai, LangChain)**, Generative AI, XGBoost, SVD, NLP (Watson), K-Means, KNN, Logistic Regression, SVM, Decision Trees, BLIP (Deep Learning)
 * **Data Science & Analytics:** Jupyter Notebooks, RStudio, Tableau, Google Analytics, MySQL, Statistical Analysis, Exploratory Data Analysis (EDA)
 * **Web & Deployment:** Flask, **Gradio**, Web Scraping (Beautiful Soup), SQLite, **MLOps Principles**
 * **R Ecosystem:** tidyverse, ggplot2, lubridate, R Markdown
@@ -74,7 +77,15 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 
 ## 🚀 Project Portfolio (Tier 1 & 2 Highlights)
 
-### 1. AI Career Coach Pro (LLM Application)
+### 1. RAG-Powered Q&A Bot for Document Analysis (LangChain & watsonx.ai)
+
+* **Sector:** Generative AI/LLM
+* **Technologies:** **LangChain, watsonx.ai, Gradio, Retrieval-Augmented Generation (RAG)**
+* **Description:** Built and deployed an end-to-end RAG system to create a custom, document-grounded QA application. The pipeline uses **PyPDFLoader**, **RecursiveCharacterTextSplitter**, and **Chroma DB** to provide the LLM with verifiable context, ensuring accurate responses to complex queries.
+* **Achievement:** Created an interactive **full-stack AI application** demonstrating mastery of the modern RAG architecture and LLM deployment.
+* [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/RAG-Powered%20Q%26A%20Bot%20with%20LangChain%20and%20watsonx.ai)
+
+### 2. AI Career Coach Pro (LLM Application)
 
 * **Sector:** Career Tech/LLM
 * **Technologies:** Python, **LLMs (watsonx.ai), Gradio, Prompt Engineering**
@@ -82,7 +93,7 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 * **Achievement:** Created a **full-stack AI application** demonstrating advanced LLM integration and the ability to design complex, multi-stage data processing workflows.
 * [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/AI%20Career%20Coach%20App)
 
-### 2. ExtraaLearn Lead Conversion Prediction
+### 3. ExtraaLearn Lead Conversion Prediction
 
 * **Sector:** Sales/Marketing
 * **Technologies:** Python, **XGBoost, AdaBoost, Feature Engineering**
@@ -90,7 +101,7 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 * **Achievement:** Achieved a peak **ROC AUC of 0.931** (Tuned XGBoost), providing actionable insights for optimizing sales strategy.
 * [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML)
 
-### 3. Amazon Product Recommendation Engine: SVD & Collaborative Filtering
+### 4. Amazon Product Recommendation Engine: SVD & Collaborative Filtering
 
 * **Sector:** Retail/eCommerce
 * **Technologies:** Python, **SVD (Matrix Factorization), Collaborative Filtering**, Surprise
@@ -98,7 +109,7 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 * **Achievement:** The Optimized **SVD model** achieved superior accuracy with the lowest **RMSE of 0.8808**, making it the recommended choice for production deployment.
 * [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine)
 
-### 4. Falcon 9 First-Stage Landing Success Prediction
+### 5. Falcon 9 First-Stage Landing Success Prediction
 
 * **Sector:** Space/MLOps
 * **Technologies:** Python, **KNN**, Web Scraping (Beautiful Soup), Folium, Plotly
@@ -106,14 +117,14 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 * **Achievement:** The **K-Nearest Neighbors (KNN)** model achieved an **83.3% accuracy** in predicting landing outcomes.
 * [Repository Link](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone)
 
-### 5. Quacktastic Conundrum (CS50)
+### 6. Quacktastic Conundrum (CS50)
 
 * **Sector:** Full-Stack Web Development
 * **Technologies:** Python, **Flask, SQLite, HTML, CSS, JavaScript**
 * **Description:** Designed and developed a full-stack mystery game featuring user registration, secure sessions, database management, and robust web security (input sanitization). Showcases proficiency in the entire web development lifecycle.
 * [Repository Link](https://github.com/GC2407CIZV/CS50/tree/main/project) | [Gameplay Video](https://www.youtube.com/watch?v=M8YOX5bFVbg&themeRefresh=1)
 
-### 6. Salifort Motors Employee Turnover Prediction
+### 7. Salifort Motors Employee Turnover Prediction
 
 * **Sector:** HR/Workforce
 * **Technologies:** Python, **XGBoost, Random Forest, PACE Methodology, A/B Testing**
@@ -121,7 +132,7 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 * **Achievement:** Developed a highly performant model for proactive risk identification, focusing recommendations on satisfaction and workload disparity.
 * [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/Salifort%20Motors%20Employee%20Turnover%20Analysis)
 
-### 7. Customer Personality Segmentation
+### 8. Customer Personality Segmentation
 
 * **Sector:** Marketing/Customer Analytics
 * **Technologies:** Python, **K-Means, PCA, Unsupervised ML**
@@ -129,7 +140,7 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 * **Achievement:** Identified **three actionable segments** for targeted marketing and retention strategies.
 * [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/Customer%20Personality%20Segmentation)
 
-### 8. NYC Housing Price Prediction Project
+### 9. NYC Housing Price Prediction Project
 
 * **Sector:** Real Estate/Geo
 * **Technologies:** Python, **Ensemble ML (RF/GB), Geo-Spatial Analysis**
@@ -137,7 +148,7 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 * **Achievement:** The Random Forest Regressor achieved strong performance, confirming location (**Manhattan**) and property square footage as critical price drivers.
 * [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/Predicting%20New%20York%20City%20Housing%20Prices%3A%20Addressing%20Real-World%20Challenges)
 
-### 9. VisionScribe (Computer Vision & Automation)
+### 10. VisionScribe (Computer Vision & Automation)
 
 * **Sector:** Computer Vision
 * **Technologies:** Python, **Deep Learning (BLIP/BLIP-2), Gradio, Hugging Face**
@@ -145,7 +156,7 @@ Since starting my coding journey in July 2024, I've immersed myself in **Python,
 * **Achievement:** Created a **unified, deployable interface** demonstrating competence in bridging ML models with user-friendly web interfaces.
 * [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/VisionScribe)
 
-### 10. Capstone Project: AI-Based Emotion Detection Web Application
+### 11. Capstone Project: AI-Based Emotion Detection Web Application
 
 * **Sector:** NLP/Full-Stack AI
 * **Technologies:** Python, **Flask, Watson NLP, Unit Testing**
