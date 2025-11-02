@@ -28,6 +28,7 @@ These certifications validate foundational to advanced skills in data science, a
 
 [![Google Advanced Data Analytics Certificate](https://img.shields.io/badge/Google%20Adv.%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/dfeb0045-1852-47f8-bc1f-688e97f7d410)
 [![IBM Data Science Professional Certificate](https://img.shields.io/badge/IBM%20Data%20Science%20Pro-006DFF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/ecd97fdc-871e-4d42-81d4-f6085fa30db6)
+[![IBM Generative AI Engineering Professional Certificate](https://img.shields.io/badge/IBM%20Gen%20AI%20Engineering%20Pro-006DFF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/earner/earned/badge/9b4faeb5-24e4-49fa-9c81-b9f282f8d91c)
 [![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credly.com/badges/6ec911b6-b7e9-432f-8415-5836a2877060)
 [![Generative AI for Data Scientists Specialization](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=googlebard&logoColor=white)](https://www.credly.com/badges/0243b1ec-74a4-4f4b-83fe-8a4e26b6fb31)
 [![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google%20Data%20Analytics%20Pro-34A853?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://www.credly.com/badges/3d6a1fd6-4055-4888-95d9-e8c8784974b9)
