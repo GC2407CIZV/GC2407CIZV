@@ -4,21 +4,15 @@ Data-driven professional specializing in full-stack AI development, Generative A
 
 ---
 
-## ✨ Core Skills at a Glance
+---
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
-[![LLM/watsonx.ai](https://img.shields.io/badge/LLM/watsonx.ai-006DFF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/watsonx)
-[![Gradio](https://img.shields.io/badge/Gradio-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://www.gradio.app/)
-[![LangChain](https://img.shields.io/badge/LangChain-008080?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-1E90FF?style=for-the-badge&logo=xgboost&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
-[![NLP](https://img.shields.io/badge/NLP-7F00FF?style=for-the-badge&logo=ibm&logoColor=white)](#)
-[![RecSys (SVD)](https://img.shields.io/badge/RecSys%20(SVD)-FF4500?style=for-the-badge&logo=apachespark&logoColor=white)](#)
-[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4BC686?style=for-the-badge&logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
+## ✨ Core Specializations
+
+| **AI & LLMs** | **Advanced Analytics** | **Operations & Scale** | **Deep Learning** |
+| :--- | :--- | :--- | :--- |
+| [![Generative AI](https://img.shields.io/badge/Generative%20AI-RAG%20%26%20LLMs-006DFF?style=flat&logo=ibm&logoColor=white)](#) | [![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-XGBoost%20%7C%20CatBoost-F7931E?style=flat&logo=scikit-learn&logoColor=white)](#) | [![MLOps](https://img.shields.io/badge/MLOps-Deployment-000000?style=flat&logo=flask&logoColor=white)](#) | [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-FF0000?style=flat&logo=tensorflow&logoColor=white)](#) |
+| **NLP & CV** | **Data Storytelling** | **Supply Chain** | **Full Stack AI** |
+| [![NLP](https://img.shields.io/badge/NLP-Sentiment%20%26%20Text-7F00FF?style=flat&logo=googledome&logoColor=white)](#) | [![Business Intelligence](https://img.shields.io/badge/BI-Tableau%20%7C%20R--Shiny-E97627?style=flat&logo=tableau&logoColor=white)](#) | [![Optimization](https://img.shields.io/badge/Optimization-Supply%20Chain-34A853?style=flat&logo=googleanalytics&logoColor=white)](#) | [![Full Stack](https://img.shields.io/badge/Full%20Stack-Gradio%20%7C%20Flask-7F00FF?style=flat&logo=python&logoColor=white)](#) |
 
 ---
 
@@ -39,26 +33,12 @@ These certifications validate foundational to advanced skills in data science, a
 
 | Project Title | Sector Focus | Core Technology | Key Achievement/Result |
 | :--- | :--- | :--- | :--- |
-| **[Shinkansen Passenger Analysis](https://github.com/GC2407CIZV/Projects/tree/main/Shinkansen%20Bullet%20Train%20Passenger%20Experience%20Analysis)** | **CatBoost, Optuna, Feature Engineering** | **0.9597 Accuracy**; [cite_start]Ranked 7th/36 in Hackathon. |
+| **[Shinkansen Passenger Analysis](https://github.com/GC2407CIZV/Projects/tree/main/Shinkansen%20Bullet%20Train%20Passenger%20Experience%20Analysis)** | **CatBoost, Optuna, Feature Engineering** | **0.9597 Accuracy**; Ranked 7th/36 in Hackathon. |
 | [**RAG-Powered Q&A Bot for Document Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/RAG-Powered%20Q%26A%20Bot%20with%20LangChain%20and%20watsonx.ai) | **Generative AI/LLM** | **LangChain, watsonx.ai, Gradio** | Built full RAG pipeline; Deployed interactive QA interface. |
 | [**AI Career Coach Pro**](https://github.com/GC2407CIZV/Projects/tree/main/AI%20Career%20Coach%20App) | **Career Tech/LLM** | **LLMs (watsonx.ai), Gradio** | End-to-end **AI application** for resume, cover letter, and interview coaching. |
 | [**ExtraaLearn Lead Conversion Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML) | Sales/Marketing | XGBoost, Lead Scoring | Achieved **ROC AUC 0.931** for optimized lead scoring. |
 | [**Amazon Product Recommendation Engine**](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine) | Retail/eCommerce | SVD, Collaborative Filtering | Optimized SVD achieved **RMSE 0.8808** on 7.8M ratings. |
-<details>
-<summary>Click to expand more projects (Healthcare, HR, Real Estate)</summary>
- | :--- | :--- | :--- | :--- |
- | [**Falcon 9 Landing Success Prediction**](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) | Space/MLOps | KNN, Web Scraping | **83.3% accuracy** predicting rocket landing success. |
-| [**AI-Based Emotion Detection App**](https://github.com/GC2407CIZV/Projects/tree/main/AI-Based%20Emotion%20Detection%20Web%20Application) | NLP/Full-Stack AI | Watson NLP, Flask | Deployed **full-stack AI application** with unit testing. |
-| [**NYC Housing Price Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Predicting%20New%20York%20City%20Housing%20Prices%3A%20Addressing%20Real-World%20Challenges) | Real Estate/Geo | Ensemble ML (RF/GB) | Models captured complex **NYC price drivers** (Manhattan location). |
-| [**Salifort Motors Turnover Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Salifort%20Motors%20Employee%20Turnover%20Analysis) | HR/Workforce | XGBoost, A/B Testing | Identified key **employee turnover factors** for retention strategy. |
-| [**Customer Personality Segmentation**](https://github.com/GC2407CIZV/Projects/tree/main/Customer%20Personality%20Segmentation) | Marketing/Analytics | K-Means, PCA | Identified **3 distinct customer segments** for tailored marketing. |
-| [**VisionScribe**](https://github.com/GC2407CIZV/Projects/tree/main/VisionScribe) | Computer Vision | BLIP (Deep Learning), Gradio | Built an **image captioning web application** using Hugging Face models. |
-| [**Quacktastic Conundrum (CS50)**](https://github.com/GC2407CIZV/CS50/tree/main/project) | Full-Stack Web Dev | Flask, SQLite, Security | Designed and implemented a secure, **full-stack web game**. |
-| [**Bellabeat Smart Device Usage Analysis**](https://github.com/GC2407CIZV/Google-Analytics/tree/main/Capstone) | Wellness/Business Analytics | R Tidyverse, ggplot2 | Delivered **strategic marketing recommendations** based on fitness data. |
-| [**Olympic Games Data Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) | Sports Analytics | Advanced EDA | Uncovered historical trends and **Optimal Athlete Profiles**. |
-| [**Heart Disease Risk Visualization**](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) | Public Health | Tableau, Data Storytelling | Created an **Interactive Risk Calculator** for public health communication. |
-| [**Bicycle Rental Demand Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) | Transportation | Time Series ML | Improved forecasting accuracy by incorporating **temporal features**. |
-</details>
+
 ---
 
 ## 👤 Professional Narrative
