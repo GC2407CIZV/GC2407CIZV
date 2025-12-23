@@ -46,7 +46,8 @@ These certifications validate foundational to advanced skills in data science, a
 | [**Amazon Product Recommendation Engine**](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine) | Retail/eCommerce | SVD, Collaborative Filtering | Optimized SVD achieved **RMSE 0.8808** on 7.8M ratings. |
 <details>
 <summary>Click to expand more projects (Healthcare, HR, Real Estate)</summary>
-| [**Falcon 9 Landing Success Prediction**](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) | Space/MLOps | KNN, Web Scraping | **83.3% accuracy** predicting rocket landing success. |
+ | :--- | :--- | :--- | :--- |
+ | [**Falcon 9 Landing Success Prediction**](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) | Space/MLOps | KNN, Web Scraping | **83.3% accuracy** predicting rocket landing success. |
 | [**AI-Based Emotion Detection App**](https://github.com/GC2407CIZV/Projects/tree/main/AI-Based%20Emotion%20Detection%20Web%20Application) | NLP/Full-Stack AI | Watson NLP, Flask | Deployed **full-stack AI application** with unit testing. |
 | [**NYC Housing Price Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Predicting%20New%20York%20City%20Housing%20Prices%3A%20Addressing%20Real-World%20Challenges) | Real Estate/Geo | Ensemble ML (RF/GB) | Models captured complex **NYC price drivers** (Manhattan location). |
 | [**Salifort Motors Turnover Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Salifort%20Motors%20Employee%20Turnover%20Analysis) | HR/Workforce | XGBoost, A/B Testing | Identified key **employee turnover factors** for retention strategy. |
