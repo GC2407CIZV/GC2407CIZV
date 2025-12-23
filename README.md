@@ -25,6 +25,7 @@ These certifications validate foundational to advanced skills in data science, a
 [![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credly.com/badges/6ec911b6-b7e9-432f-8415-5836a2877060)
 [![Generative AI for Data Scientists Specialization](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=googlebard&logoColor=white)](https://www.credly.com/badges/0243b1ec-74a4-4f4b-83fe-8a4e26b6fb31)
 [![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google%20Data%20Analytics%20Pro-34A853?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://www.credly.com/badges/3d6a1fd6-4055-4888-95d9-e8c8784974b9)
+[![AWS Machine Learning Specialty](https://img.shields.io/badge/AWS-ML%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
 ---
 
