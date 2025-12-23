@@ -18,7 +18,7 @@ Data-driven professional specializing in full-stack AI development, Generative A
 
 These certifications validate foundational to advanced skills in data science, analytics, and deep learning.
 
-[![MIT IDSS Data Science](https://img.shields.io/badge/MIT%20IDSS-Data%20Science%20%26%20ML-A31F34?style=for-the-badge&logo=massachusetts-institute-of-technology&logoColor=white)](https://idss.mit.edu/)
+[![MIT IDSS Data Science](https://img.shields.io/badge/MIT%20IDSS-Data%20Science%20%26%20ML-A31F34?style=for-the-badge&logo=massachusetts-institute-of-technology&logoColor=white)]([https://idss.mit.edu/](https://www.mygreatlearning.com/certificate/DHONSKEO))
 [![Google Advanced Data Analytics Certificate](https://img.shields.io/badge/Google%20Adv.%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/dfeb0045-1852-47f8-bc1f-688e97f7d410)
 [![IBM Data Science Professional Certificate](https://img.shields.io/badge/IBM%20Data%20Science%20Pro-006DFF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/ecd97fdc-871e-4d42-81d4-f6085fa30db6)
 [![IBM Generative AI Engineering Professional Certificate](https://img.shields.io/badge/IBM%20Gen%20AI%20Engineering%20Pro-006DFF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/earner/earned/badge/9b4faeb5-24e4-49fa-9c81-b9f282f8d91c)
