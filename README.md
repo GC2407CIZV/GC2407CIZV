@@ -4,8 +4,6 @@ Data-driven professional specializing in full-stack AI development, Generative A
 
 ---
 
----
-
 ## ✨ Core Specializations
 
 | **AI & LLMs** | **Advanced Analytics** | **Operations & Scale** | **Deep Learning** |
@@ -33,21 +31,39 @@ These certifications validate foundational to advanced skills in data science, a
 
 | Project Title | Sector Focus | Core Technology | Key Achievement/Result |
 | :--- | :--- | :--- | :--- |
-| **[Shinkansen Passenger Analysis](https://github.com/GC2407CIZV/Projects/tree/main/Shinkansen%20Bullet%20Train%20Passenger%20Experience%20Analysis)** | **CatBoost, Optuna, Feature Engineering** | **0.9597 Accuracy**; Ranked 7th/36 in Hackathon. |
-| [**RAG-Powered Q&A Bot for Document Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/RAG-Powered%20Q%26A%20Bot%20with%20LangChain%20and%20watsonx.ai) | **Generative AI/LLM** | **LangChain, watsonx.ai, Gradio** | Built full RAG pipeline; Deployed interactive QA interface. |
-| [**AI Career Coach Pro**](https://github.com/GC2407CIZV/Projects/tree/main/AI%20Career%20Coach%20App) | **Career Tech/LLM** | **LLMs (watsonx.ai), Gradio** | End-to-end **AI application** for resume, cover letter, and interview coaching. |
-| [**ExtraaLearn Lead Conversion Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML) | Sales/Marketing | XGBoost, Lead Scoring | Achieved **ROC AUC 0.931** for optimized lead scoring. |
-| [**Amazon Product Recommendation Engine**](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine) | Retail/eCommerce | SVD, Collaborative Filtering | Optimized SVD achieved **RMSE 0.8808** on 7.8M ratings. |
+| **[Shinkansen Analysis](https://github.com/GC2407CIZV/Projects/tree/main/Shinkansen%20Bullet%20Train%20Passenger%20Experience%20Analysis)** | **Transport** | **CatBoost, Optuna** | **0.9597 Accuracy**; Ranked 7th/36 in Hackathon. |
+| **[RAG Q&A Bot](https://github.com/GC2407CIZV/Projects/tree/main/RAG-Powered%20Q%26A%20Bot%20with%20LangChain%20and%20watsonx.ai)** | **GenAI** | **LangChain, ChromaDB** | Full RAG pipeline for document-grounded analysis. |
+| **[AI Career Coach Pro](https://github.com/GC2407CIZV/Projects/tree/main/AI%20Career%20Coach%20App)** | **Career Tech** | **watsonx.ai, Gradio** | Modular LLM app for multi-stage career data processing. |
+| **[ExtraaLearn Scoring](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML)** | **Sales** | **XGBoost, Tuning** | Achieved **ROC AUC 0.931** for lead conversion. |
+| **[Amazon RecSys](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine)** | **Retail** | **SVD, Surprise** | Optimized SVD achieved **RMSE 0.8808** on 7.8M ratings. |
+
+> **Note:** For a full list of all 15+ projects, please visit my [Projects Repository](https://github.com/GC2407CIZV/Projects).
+
+---
+
+## 🚀 Featured Project Highlights
+
+### 1. Shinkansen Passenger Experience Analysis (Hackathon Top 10)
+* **Technologies:** Python, CatBoost, Optuna, Feature Engineering.
+* **Problem:** Predict passenger satisfaction based on complex experience data.
+* **Solution:** Applied categorical boosting with automated hyperparameter tuning to capture non-linear satisfaction drivers.
+* **Impact:** Achieved **0.9597 accuracy**, ranking **7th out of 36** participants in a high-stakes hackathon environment.
+* [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/Shinkansen%20Bullet%20Train%20Passenger%20Experience%20Analysis)
+
+### 2. RAG-Powered Q&A Bot for Document Analysis
+* **Technologies:** LangChain, watsonx.ai, Gradio, Retrieval-Augmented Generation (RAG).
+* **Problem:** Extracting verifiable insights from massive unstructured PDF datasets.
+* **Solution:** Built an end-to-end RAG system using **Chroma DB** for vector storage and **PyPDFLoader** for data ingestion.
+* **Impact:** Deployed a full-stack AI application capable of document-grounded, hallucination-free querying.
+* [Repository Link](https://github.com/GC2407CIZV/Projects/tree/main/RAG-Powered%20Q%26A%20Bot%20with%20LangChain%20and%20watsonx.ai)
 
 ---
 
 ## 👤 Professional Narrative
 
-I am a **Data Scientist** with a foundation built on **Technical Leadership** and **Systems Optimization**. My career spans high-stakes environments—from managing elite curriculum data in Japan to optimizing logistics for global events like Tomorrowland and leading technical diagnostics for high-performance automotive systems.
+I am a **Data Scientist** with a foundation built on **Technical Leadership** and **Systems Optimization**. My career spans high-stakes environments—from managing elite curriculum data in Japan to optimizing logistics for global events and leading technical diagnostics for high-performance automotive systems.
 
-Since transitioning to Data Science in 2024, I have completed over **50 certifications** from institutions like **MIT**, **IBM** **Google** etc. , specializing in making data "actionable". I am particularly focused on **Anomaly Detection**, **Supply Chain Optimization**, and the deployment of **Generative AI** solutions that drive measurable ROI.
-
----
+Since transitioning to Data Science in 2024, I have completed over **50 certifications** from institutions like **MIT**, **IBM**, and **Google**, specializing in making data "actionable." I am particularly focused on **Anomaly Detection**, **Supply Chain Optimization**, and the deployment of **Generative AI** solutions that drive measurable ROI.
 
 ---
 
