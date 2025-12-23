@@ -87,24 +87,18 @@ Since transitioning to Data Science in 2024, I have completed over **50 certific
 
 ---
 
-## 🚀 Quick Project Index (Full Library)
+## 🌐 Industry & Domain Expertise
 
-<details>
-<summary>Click to view all 15+ Data Science & Analysis Projects</summary>
+Beyond the featured highlights, I have executed **15+ end-to-end projects** across diverse sectors. My full technical portfolio includes:
 
-| Project Title | Sector | Core Tech |
-| :--- | :--- | :--- |
-| **NYC Housing Prediction** | Real Estate | Ensemble ML (RF/GB) |
-| **Salifort Motors Turnover** | HR/Workforce | XGBoost, A/B Testing |
-| **Falcon 9 Landing Success** | Space/MLOps | KNN, Web Scraping |
-| **VisionScribe** | Computer Vision | BLIP, Gradio |
-| **Emotion Detection App** | NLP | Watson NLP, Flask |
-| **Customer Segmentation** | Marketing | K-Means, PCA |
-| **Bellabeat Analysis** | Wellness | R Tidyverse |
-| **Olympic Trends** | Sports | Python, EDA |
-| **Heart Disease Risk** | Health | Tableau |
-| **Bicycle Rental Demand** | Transport | Time Series ML |
-</details>
+* **Real Estate:** NYC Housing Price Prediction (Ensemble ML)
+* **HR Tech:** Salifort Motors Employee Turnover (XGBoost & A/B Testing)
+* **Aerospace:** Falcon 9 Landing Success Prediction (KNN & Web Scraping)
+* **Computer Vision:** VisionScribe Image Captioning (Deep Learning/BLIP)
+* **Marketing:** Customer Personality Segmentation (K-Means & PCA)
+* **Health:** Heart Disease Risk Visualization (Tableau)
+
+👉 **[View the Full 15+ Project Library Here](https://github.com/GC2407CIZV/Projects)**
 
 ---
 
