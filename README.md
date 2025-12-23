@@ -95,6 +95,3 @@ Since transitioning to Data Science in 2024, I have completed over **50 certific
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/gregory-charles-7a460550/) [![Credly Portfolio](https://img.icons8.com/ios-filled/50/FF6B00/badge.png)](https://www.credly.com/users/gregory-charles.adfbfec5) [![Email](https://img.icons8.com/ios-filled/50/808080/new-post.png)](mailto:gregory.charles01@gmail.com)
-
----
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GC2407CIZV&show_icons=true&theme=radical)
