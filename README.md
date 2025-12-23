@@ -25,7 +25,6 @@ These certifications validate foundational to advanced skills in data science, a
 [![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credly.com/badges/6ec911b6-b7e9-432f-8415-5836a2877060)
 [![Generative AI for Data Scientists Specialization](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=googlebard&logoColor=white)](https://www.credly.com/badges/0243b1ec-74a4-4f4b-83fe-8a4e26b6fb31)
 [![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google%20Data%20Analytics%20Pro-34A853?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://www.credly.com/badges/3d6a1fd6-4055-4888-95d9-e8c8784974b9)
-[![AWS Machine Learning Specialty](https://img.shields.io/badge/AWS-ML%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
 ---
 
@@ -74,18 +73,19 @@ Since transitioning to Data Science in 2024, I have completed over **50 certific
 * **Generative AI & NLP:** LLMs (watsonx.ai, Mistral), LangChain, RAG, Prompt Engineering, Watson NLP, Hugging Face.
 * **Predictive Analytics:** XGBoost, CatBoost, SVD, Time Series, Anomaly Detection, PCA, K-Means Clustering.
 * **Computer Vision:** Deep Learning (BLIP/BLIP-2), Image Captioning, Vision Transformers.
-* **Deployment & MLOps:** AWS SageMaker, Flask, Gradio, Git, Data Pipelines (ETL), Unit Testing.
+* **Deployment & MLOps:** AWS Cloud Foundations (SageMaker familiarization), Flask, Gradio, Git, Data Pipelines (ETL), Unit Testing.
 * **Languages & Visualization:** Python (Pandas, Scikit-Learn, PyTorch), R (Tidyverse), SQL, Tableau.
+* **Languages:** **French** (Native), **Dutch** (Native), **English** (Full Professional Proficiency), **Japanese** (Conversational/Daily Life).
 
 ---
 
-## 🎓 Featured Certifications (Verified)
+## 🎓 Featured Certifications & Training
 
 * **MIT IDSS:** Data Science and Machine Learning Specialization
 * **IBM:** Generative AI Engineering Professional Certificate
 * **DeepLearning.AI:** Deep Learning Specialization
+* **AWS (via Coursera):** Technical Training in ML Engineering (MLA-C01 Prep) & Cloud Practitioner Essentials
 * **Google:** Advanced Data Analytics Professional Certificate
-* **AWS:** Certified Cloud Practitioner & Machine Learning Specialty
 
 ---
 
@@ -103,6 +103,15 @@ Beyond the featured highlights, I have executed **15+ end-to-end projects** acro
 👉 **[View the Full 15+ Project Library Here](https://github.com/GC2407CIZV/Projects)**
 
 ---
+
+## 🌍 Languages
+![French](https://img.shields.io/badge/French-Native-brightgreen)
+![Dutch](https://img.shields.io/badge/Dutch-Native-brightgreen)
+![English](https://img.shields.io/badge/English-Full%20Professional-brightgreen)
+![Japanese](https://img.shields.io/badge/Japanese-Conversational-blue)
+
+---
+
 
 ## 🔗 Let's Connect
 
