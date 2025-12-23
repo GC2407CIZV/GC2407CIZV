@@ -44,6 +44,8 @@ These certifications validate foundational to advanced skills in data science, a
 | [**AI Career Coach Pro**](https://github.com/GC2407CIZV/Projects/tree/main/AI%20Career%20Coach%20App) | **Career Tech/LLM** | **LLMs (watsonx.ai), Gradio** | End-to-end **AI application** for resume, cover letter, and interview coaching. |
 | [**ExtraaLearn Lead Conversion Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML) | Sales/Marketing | XGBoost, Lead Scoring | Achieved **ROC AUC 0.931** for optimized lead scoring. |
 | [**Amazon Product Recommendation Engine**](https://github.com/GC2407CIZV/Projects/tree/main/Amazon%20Product%20Recommendation%20Engine) | Retail/eCommerce | SVD, Collaborative Filtering | Optimized SVD achieved **RMSE 0.8808** on 7.8M ratings. |
+<details>
+<summary>Click to expand more projects (Healthcare, HR, Real Estate)</summary>
 | [**Falcon 9 Landing Success Prediction**](https://github.com/GC2407CIZV/IBM/tree/main/Applied%20Data%20Science%20Capstone) | Space/MLOps | KNN, Web Scraping | **83.3% accuracy** predicting rocket landing success. |
 | [**AI-Based Emotion Detection App**](https://github.com/GC2407CIZV/Projects/tree/main/AI-Based%20Emotion%20Detection%20Web%20Application) | NLP/Full-Stack AI | Watson NLP, Flask | Deployed **full-stack AI application** with unit testing. |
 | [**NYC Housing Price Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Predicting%20New%20York%20City%20Housing%20Prices%3A%20Addressing%20Real-World%20Challenges) | Real Estate/Geo | Ensemble ML (RF/GB) | Models captured complex **NYC price drivers** (Manhattan location). |
@@ -55,14 +57,14 @@ These certifications validate foundational to advanced skills in data science, a
 | [**Olympic Games Data Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) | Sports Analytics | Advanced EDA | Uncovered historical trends and **Optimal Athlete Profiles**. |
 | [**Heart Disease Risk Visualization**](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) | Public Health | Tableau, Data Storytelling | Created an **Interactive Risk Calculator** for public health communication. |
 | [**Bicycle Rental Demand Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) | Transportation | Time Series ML | Improved forecasting accuracy by incorporating **temporal features**. |
-
+</details>
 ---
 
 ## 👤 Professional Narrative
 
-[cite_start]I am a **Data Scientist** with a foundation built on **Technical Leadership** and **Systems Optimization**[cite: 176, 178]. [cite_start]My career spans high-stakes environments—from managing elite curriculum data in Japan to optimizing logistics for global events like Tomorrowland and leading technical diagnostics for high-performance automotive systems[cite: 125, 165, 183, 193].
+I am a **Data Scientist** with a foundation built on **Technical Leadership** and **Systems Optimization**. My career spans high-stakes environments—from managing elite curriculum data in Japan to optimizing logistics for global events like Tomorrowland and leading technical diagnostics for high-performance automotive systems.
 
-[cite_start]Since transitioning to Data Science in 2024, I have completed over **50 certifications** from institutions like **MIT** and **IBM**, specializing in making data "actionable"[cite: 3, 204, 206]. [cite_start]I am particularly focused on **Anomaly Detection**, **Supply Chain Optimization**, and the deployment of **Generative AI** solutions that drive measurable ROI[cite: 22, 23, 211].
+Since transitioning to Data Science in 2024, I have completed over **50 certifications** from institutions like **MIT**, **IBM** **Google** etc. , specializing in making data "actionable". I am particularly focused on **Anomaly Detection**, **Supply Chain Optimization**, and the deployment of **Generative AI** solutions that drive measurable ROI.
 
 ---
 
