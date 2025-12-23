@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Greg
+# 👋 Hi, I'm Greg | Data Scientist & AI Engineer
 
-Data-driven professional skilled in Python, R, and Machine Learning, focused on delivering actionable insights and deployable **full-stack AI and LLM solutions**.
+Data-driven professional specializing in full-stack AI development, Generative AI (RAG, LLMs), and Advanced Predictive Modeling. I bridge the gap between complex data challenges and actionable business insights through scalable, deployable solutions.
 
 ---
 
@@ -39,6 +39,7 @@ These certifications validate foundational to advanced skills in data science, a
 
 | Project Title | Sector Focus | Core Technology | Key Achievement/Result |
 | :--- | :--- | :--- | :--- |
+| **[Shinkansen Passenger Analysis](https://github.com/GC2407CIZV/Projects/tree/main/Shinkansen%20Bullet%20Train%20Passenger%20Experience%20Analysis)** | **CatBoost, Optuna, Feature Engineering** | **0.9597 Accuracy**; [cite_start]Ranked 7th/36 in Hackathon. |
 | [**RAG-Powered Q&A Bot for Document Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/RAG-Powered%20Q%26A%20Bot%20with%20LangChain%20and%20watsonx.ai) | **Generative AI/LLM** | **LangChain, watsonx.ai, Gradio** | Built full RAG pipeline; Deployed interactive QA interface. |
 | [**AI Career Coach Pro**](https://github.com/GC2407CIZV/Projects/tree/main/AI%20Career%20Coach%20App) | **Career Tech/LLM** | **LLMs (watsonx.ai), Gradio** | End-to-end **AI application** for resume, cover letter, and interview coaching. |
 | [**ExtraaLearn Lead Conversion Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Lead%20Conversion%20Prediction%20ML) | Sales/Marketing | XGBoost, Lead Scoring | Achieved **ROC AUC 0.931** for optimized lead scoring. |
@@ -54,6 +55,16 @@ These certifications validate foundational to advanced skills in data science, a
 | [**Olympic Games Data Analysis**](https://github.com/GC2407CIZV/Projects/tree/main/Olympic%20Dataset%20Analysis%20for%20SportsStats) | Sports Analytics | Advanced EDA | Uncovered historical trends and **Optimal Athlete Profiles**. |
 | [**Heart Disease Risk Visualization**](https://github.com/GC2407CIZV/Projects/tree/main/The%20Heart's%20Story%3A%20What%20Influences%20Failure%20and%20Disease%3F) | Public Health | Tableau, Data Storytelling | Created an **Interactive Risk Calculator** for public health communication. |
 | [**Bicycle Rental Demand Prediction**](https://github.com/GC2407CIZV/Projects/tree/main/Bicycle%20Rental%20Demand%20Prediction%20Project) | Transportation | Time Series ML | Improved forecasting accuracy by incorporating **temporal features**. |
+
+---
+
+## 👤 Professional Narrative
+
+[cite_start]I am a **Data Scientist** with a foundation built on **Technical Leadership** and **Systems Optimization**[cite: 176, 178]. [cite_start]My career spans high-stakes environments—from managing elite curriculum data in Japan to optimizing logistics for global events like Tomorrowland and leading technical diagnostics for high-performance automotive systems[cite: 125, 165, 183, 193].
+
+[cite_start]Since transitioning to Data Science in 2024, I have completed over **50 certifications** from institutions like **MIT** and **IBM**, specializing in making data "actionable"[cite: 3, 204, 206]. [cite_start]I am particularly focused on **Anomaly Detection**, **Supply Chain Optimization**, and the deployment of **Generative AI** solutions that drive measurable ROI[cite: 22, 23, 211].
+
+---
 
 ---
 
